@@ -1,5 +1,5 @@
 # Rithmos - CLI Music Player
-Rithmos is a lightweight terminal-based music player that shuffles your MP3, FLAC, and WAV files. Designed for simplicity, it works seamlessly on Linux and macOS, with optional Windows support through compilation. Enjoy your music library directly from the command line, anywhere, anytime.
+Rithmos is a lightweight terminal-based music player that shuffles your MP3, FLAC, and WAV files. Designed for simplicity, it works seamlessly on Linux and macOS and Windows with it's own in-house music decoder to ensure compatibility across ALL operating systems (that support Rust, duh!).
 
 ## What is this repository?
 This is the repository for the in progresss removal of FFMPEG from Rithmos. This simply allows us to keep everything seperate from the other repository to not break it.
